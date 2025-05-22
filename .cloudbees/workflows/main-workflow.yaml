@@ -10,6 +10,7 @@ permissions:
   scm-token-own: read
   scm-token-org: read
   id-token: write
+  
 jobs:
   test:
     steps:
